@@ -6,8 +6,8 @@ import {TodoItem} from './TodoItem';
 const App = ()=>{
   return (
     <>
-    <TodoItem id="react1" labelName='React to learn'/>
-    <TodoItem id="react2" labelName='Typescript to learn'/>
+      <TodoItem id="react1" labelName='React to learn'/>
+      <TodoItem id="react2" labelName='Typescript to learn'/>
     </>
   )
   
