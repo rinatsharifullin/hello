@@ -8,7 +8,6 @@ const App = ()=>{
     <>
     <TodoItem id="react1" labelName='React to learn'/>
     <TodoItem id="react2" labelName='Typescript to learn'/>
-
     </>
   )
   
